@@ -6,3 +6,4 @@
  ### Creative Thinker ‣ Life-Long Tinker-er ‣ Husband & Father ‣ Spirited Chef @chefdougiemac
 
  ![](https://raw.githubusercontent.com/sedoug/github-stats/master/generated/languages.svg)
+ ![](https://raw.githubusercontent.com/sedoug/github-stats/master/generated/overview.svg)
