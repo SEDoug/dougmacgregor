@@ -36,6 +36,6 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://doug-macgregor.webflow.io
+[twitter]: https://twitter.com/Doug_Mac_Gregor
+[linkedin]: https://linkedin.com/in/sedoug
