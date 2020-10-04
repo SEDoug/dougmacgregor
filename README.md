@@ -7,3 +7,7 @@
 
  ![](https://raw.githubusercontent.com/sedoug/github-stats/master/generated/languages.svg)
  ![](https://raw.githubusercontent.com/sedoug/github-stats/master/generated/overview.svg)
+
+- 🏢 LinkedIn: [Doug M](https://www.linkedin.com/in/sedoug/)
+- 🌎 Website: [https://doug-macgregor.webflow.io/](https://dougmacgregor.io/)
+- 🐳 Docker: [https://hub.docker.com/u/sedoug](https://hub.docker.com/u/sedoug
